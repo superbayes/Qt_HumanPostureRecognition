@@ -12,7 +12,7 @@
 
 ## result
 
-![img]()
+![img](https://github.com/superbayes/Qt_HumanPostureRecognition/blob/main/HumanPostureRecognition/dancing3.gif)
 
 ## note
 
