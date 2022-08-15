@@ -9,6 +9,7 @@
 * nanodet
 * moveNet
 * ncnn
+* Vulkan 1.2.198.1
 
 ## result
 
